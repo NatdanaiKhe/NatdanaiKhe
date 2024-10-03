@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there! 👋 I'm Jack
 
-<!--
-**NatdanaiKhe/NatdanaiKhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Software Developer and Front-End Developer working in an agency company.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- **Languages:** JavaScript, TypeScript.
+- **Frameworks & Libraries:** React, Next.js, Express.
+- **Tools & Platforms:** Docker, GitHub, Vercel, AWS.
+- **Databases:** MySQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to Reach Me
+- Email: natdanai.khemt@gmail.com
+- LinkedIn: [Your LinkedIn Profile](URL)
+
+## 💡 Fun Facts
+- 🌍 I'm from Bangkok, Thailand.
+
+## 💬 Get In Touch
+I'm open to collaborating on exciting projects, learning new things, or just having a chat! Feel free to reach out.
+
+---
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NatdanaiKhe&layout=compact&theme=radical)
