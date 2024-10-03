@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a Software Developer and Front-End Developer w
 
 ## 📫 How to Reach Me
 - Email: natdanai.khemt@gmail.com
-- LinkedIn: Natdanai Khemthong([URL](https://www.linkedin.com/in/natdanai-khemthong-0040a2264/))
+- LinkedIn: ([Natdanai Khemthong](https://www.linkedin.com/in/natdanai-khemthong-0040a2264/))
 
 ## 💡 Fun Facts
 - 🌍 I'm from Bangkok, Thailand.
