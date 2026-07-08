@@ -19,5 +19,3 @@ Welcome to my GitHub profile! I'm a Software Developer and Front-End Developer w
 I'm open to collaborating on exciting projects, learning new things, or just having a chat! Feel free to reach out.
 
 ---
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NatdanaiKhe&layout=compact&theme=radical)
