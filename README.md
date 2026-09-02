@@ -4,9 +4,9 @@ Welcome to my GitHub profile! I'm a Software Developer and Front-End Developer w
 
 ## 💻 Tech Stack
 - **Languages:** JavaScript, TypeScript.
-- **Frameworks & Libraries:** React, Next.js, Express.
+- **Frameworks & Libraries:** React, Next.js, Express, NestJS.
 - **Tools & Platforms:** Docker, GitHub, Vercel, AWS.
-- **Databases:** MySQL.
+- **Databases:** MySQL, PostgreSQL.
 
 ## 📫 How to Reach Me
 - Email: natdanai.khemt@gmail.com
